@@ -28,5 +28,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white">
 </div>
 
+![snake svg](https://raw.githubusercontent.com/kimyuchan-k1/kimyuchan-k1/output/github-snake-dark.svg)
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
 </div>
