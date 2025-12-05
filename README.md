@@ -3,7 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=230&section=header&text=Yuchan's%20Github&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Junior%20Backend%20Developer&descAlignY=50">
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kimyuchan-k1&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=cccccc&text_color=999999&bg_color=242424"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kimyuchan-k1&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=cccccc&text_color=999999&bg_color=242424"/>
   
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyuchan-k1&layout=compact&hide_border=true&theme=dark&hide=jupyter%20notebook&title_color=ffffff&text_color=999999&bg_color=242424"/>
 </div>
